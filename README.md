@@ -1,5 +1,5 @@
 
-## :men_technologist: João Carlos
+## 👨🏽‍💻 João Carlos
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/joaosf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-carlos/)](https://www.linkedin.com/in/joao-carlos/)
@@ -7,7 +7,7 @@
 
 ### Hi there! 👋
 
-- :men_technologist: **Fullstack** and **mobile** developer.
+- 👨🏽‍💻 **Fullstack** and **mobile** developer.
 - Skills:
   - 💻 Web: Node.js, AngularJS, Angular 7, ReactNative, Yii for PHP and **more**.
   - 📱 Mobile: Flutter, Java, Kotlin and Swift.
