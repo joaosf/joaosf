@@ -5,7 +5,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-carlos/)](https://www.linkedin.com/in/joao-carlos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosf96@gmail.com)](mailto:joaosf96@gmail.com)
 
-### Hi there! 👋
+### Hi there! 🤙🏽
 
 - 👨🏽‍💻 **Fullstack** and **mobile** developer.
 - Skills:
