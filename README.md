@@ -1,7 +1,6 @@
 
 ## 👨🏽‍💻 João Carlos
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/nymalone)](https://github.com/joaosf)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joao-carlos/)](https://www.linkedin.com/in/joao-carlos/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:joaosf96@gmail.com)](mailto:joaosf96@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/joaocsferreira/)](https://www.instagram.com/joaocsferreira/)
