@@ -7,7 +7,7 @@
 
 ### Hi there! 🤙🏽
 
-- 👨🏽‍💻 **Fullstack** and **mobile** developer.
+- 👨🏽‍💻 **Full Stack** and **mobile** developer.
 - Skills:
   - 💻 Web: Node.js, AngularJS, Angular 7, ReactNative, Yii for PHP and **more**.
   - 📱 Mobile: Flutter, Java, Kotlin and Swift.
