@@ -12,3 +12,5 @@
 - :books: Graduated in **Analysis and Systems Development**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=compact&theme=dark)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=joaosf&show_icons=true&theme=transparent)
