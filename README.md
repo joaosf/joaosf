@@ -11,4 +11,4 @@
   - 💾 Database: Firebase Cloud Firestore and Realtime Database, SQLServer, MySQL, PostgreSQL, MongoDB, Firebird, Paradox and **more**.
 - :books: Graduated in **Analysis and Systems Development**.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=[joaosf](https://github-readme-stats.vercel.app/api/top-langs)&layout=compact&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=donut&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=[joaosf](https://github-readme-stats.vercel.app/api/top-langs)&layout=donut&theme=tokyonight)
