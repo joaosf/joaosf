@@ -12,5 +12,3 @@
 - :books: Graduated in **Analysis and Systems Development**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=compact&theme=dark)
-
-[![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaosf)](https://github.com/anuraghazra/github-readme-stats)
