@@ -10,3 +10,5 @@
   - 🖥️ Desktop: Java Swing, Java EE with Spring, C# (Windows Forms/MVC5 with Knockout), Delphi 7, Delphi XE8.
   - 💾 Database: Firebase Cloud Firestore and Realtime Database, SQLServer, MySQL, PostgreSQL, MongoDB, Firebird, Paradox and **more**.
 - :books: Graduated in **Analysis and Systems Development**.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=compact&theme=tokyonight)](https://github-readme-stats.vercel.app/api/top-langs/?username=[joaosf](https://github-readme-stats.vercel.app/api/top-langs)&layout=compact&theme=tokyonight)
