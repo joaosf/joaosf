@@ -1,14 +1,14 @@
 
 ## 👨🏽‍💻 João Ferreira
 
-### Hi there! 
+### Hi there!
 
-- 👨🏽‍💻 **Full Stack** and **mobile** developer.
+- 👨🏽‍💻 **Full Stack** and **mobile** developer since 2011.
 - Skills:
-  - 💻 Web: Node.js, AngularJS, Angular 7, React, Yii for PHP and **more**.
-  - 📱 Mobile: Flutter, React Native, Java, Kotlin and Swift.
-  - 🖥️ Desktop: Java Swing, Java EE with Spring, C# (Windows Forms/MVC5 with Knockout), Delphi 7, Delphi XE8.
-  - 💾 Database: Firebase Cloud Firestore and Realtime Database, SQLServer, MySQL, PostgreSQL, MongoDB, Firebird, Paradox and **more**.
+  - 💻 Web: Node.js, AngularJS, Angular 7, React, NextJS and Yii for PHP;
+  - 📱 Mobile: Flutter, React Native, Java, Kotlin and Swift;
+  - ⚙️ Backend: Python, Java, C# and Delphi;
+  - 💾 Database: SQLServer, Oracle, MySQL, PostgreSQL, MongoDB, Firebird and Paradox.
 - :books: Graduated in **Analysis and Systems Development**.
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaosf&layout=compact&theme=dark)
