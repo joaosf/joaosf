@@ -3,11 +3,11 @@
 
 ### Hi there!
 
-- 👨🏽‍💻 **Full Stack** and **mobile** developer since 2011.
+- 👨🏽‍💻 **Mobile** and **Full Stack** developer since 2011.
 - Skills:
-  - 💻 Web: Typescript, Javascript, Node.js, AngularJS, Angular 7, React, NextJS and Yii for PHP;
   - 📱 Mobile: Flutter, React Native, Java, Kotlin and Swift;
-  - ⚙️ Backend: Python, Java, C# and Delphi;
+  - ⚙️ Backend: Python, Java, C#;
+  - 💻 Web: Typescript, Javascript, Node.js, AngularJS, Angular 7, React, NextJS and Yii for PHP;
   - 💾 Database: SQLServer, Oracle, MySQL, PostgreSQL, MongoDB, Firebird and Paradox.
 - :books: Graduated in **Analysis and Systems Development**.
 
